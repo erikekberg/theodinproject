@@ -11,7 +11,7 @@ Sentry.init({
     "Possible side-effect in debug-evaluate",
     "Unexpected end of input",
     "Invalid or unexpected token",
-    "missing ) after argument list",
+    "Missing ) after argument list",
   ],
 });
 
